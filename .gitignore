@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+*.log
+.vsf_integrity_baseline.json
+reports/
+node_modules/
+.DS_Store
